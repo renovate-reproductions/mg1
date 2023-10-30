@@ -1,4 +1,4 @@
 {
-  "fetchReleaseNotes": false,
+  "fetchChangeLogs": "off",
   "configMigration": true
 }
